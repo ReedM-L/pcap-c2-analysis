@@ -66,3 +66,8 @@ This analysis examines a PCAP file capturing network traffic from an infected ho
 - Analyze logs for potential data exfiltration  
 - Consider automated detection tools for C2 traffic monitoring
 - Briefing mentioned multiple C2 servers, learn about C2 traffic and identify any additonal servers that contributed to C2 attack on infected host
+
+## Acknowledgments
+This lab is based on a pcap file and scenario from [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/).  
+Original exercise: [2025-01-22 - TRAFFIC ANALYSIS EXERCISE: DOWNLOAD FROM FAKE SOFTWARE SITE](https://www.malware-traffic-analysis.net/2025/01/22/index.html) by Brad Duncan.  
+Used here for educational purposes only.
